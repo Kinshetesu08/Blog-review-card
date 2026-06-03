@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Blog preview card solution](./screenshot.jpg)
+![Blog preview card solution](./assets\screenshot.png)
 
 
 ### Links
