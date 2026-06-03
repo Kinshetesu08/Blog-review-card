@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://blog-reviewcard.netlify.app/)
+- Solution URL: (https://www.frontendmentor.io/solutions/blog-review-card-QqFuTxXjiO/report)
+- Live Site URL: (https://blog-reviewcard.netlify.app/)
 
 ## My process
 
